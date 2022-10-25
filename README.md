@@ -18,4 +18,4 @@
 
 ## `To host the webpage I have used Netlify platform.`
 
-## [Link to the totalitycorp-frontend-challenge](https://google.com)
+## [Link to the totalitycorp-frontend-challenge](https://totalitycorp-frontend-assignment.netlify.app/)
